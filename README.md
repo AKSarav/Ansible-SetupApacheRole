@@ -1,3 +1,2 @@
-
-## FOR MORE INFORMATION visit https://www.middlewareinventory.com
+### For more information visit 
 
